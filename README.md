@@ -6,7 +6,7 @@
 ## Hi there 👋
 This is **Aditya soni** here.
 
-My main interest lies in Deep Learning and Machine Learning. I also have basic knowledge of Tableau. I am always curious to learn something new.
+My main interest lies in Programming and Machine Learning. I also have basic knowledge of Tableau. I am always curious to learn something new.
 
 🔭 I’m currently working on a Machine learning project
 
