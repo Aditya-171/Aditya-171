@@ -10,8 +10,6 @@ My main interest lies in Programming and Machine Learning. I also have basic kno
 
 🔭 I’m currently working on a Machine learning project
 
-🌱 I’m currently learning Deap learning and Neural Network
-
 👯 I’m looking to collaborate on any ML Project
 
 💬 Ask me about C++,Python,DSA,Deployment,ML algorithms
