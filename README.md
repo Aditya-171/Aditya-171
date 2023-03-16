@@ -6,13 +6,6 @@
 ## Hi there 👋
 This is **Aditya soni** here.
 
-My main interest lies in Programming and Machine Learning. I also have basic knowledge of Tableau. I am always curious to learn something new.
-
-🔭 I’m currently working on a Machine learning project
-
-👯 I’m looking to collaborate on any ML Project
-
-💬 Ask me about C++,Python,DSA,Deployment,ML algorithms
 
 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/aditya-soni-66506117a/) or contact me directly on this mail soniaditya2000.03@gmil.com
 
